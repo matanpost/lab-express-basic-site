@@ -1,0 +1,24 @@
+
+
+#main-page{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: navy;
+}
+
+#contacts{
+    font-size: large;
+    font-family: fantasy;
+    color: paleturquoise;
+}
+
+#about{
+    font-size: large;
+    font-family: cursive;
+    color: lightcoral;
+}
+
+#main-page img{
+    height: 250px;
+    width: 250px;
+}
